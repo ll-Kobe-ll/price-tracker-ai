@@ -1,0 +1,18 @@
+# Environment variables (contains secrets/API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
+
+# Databases (local data, not source code)
+*.db
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
